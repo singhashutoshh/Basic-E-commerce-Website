@@ -1,5 +1,5 @@
 # Ecommerce-Website-College-Project
-Final Year Project for students as Ecommerce website especially different webpages. Top class Website Development project that made by combination of front end programming languages such as HTML, CSS &amp; JS.
+ Project for students as Ecommerce website especially different webpages. Top class Website Development project that made by combination of front end programming languages such as HTML, CSS &amp; JS.
 
 ### Click on play button see Demo:
 
@@ -22,9 +22,9 @@ Email me Now **ashutoshsingh9354@gmail.com** to get this Full Project Code, PPT,
 
 ### Mail : ashutoshsingh9354@gmail.com
 
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
+### WhatsApp: **+91 7061940** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
 
-### Website : https://www.finalproject.in/
+### Website : 
 
 ### 1000 Computer Science Projects : https://www.computer-science-project.in/
 
